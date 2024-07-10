@@ -4,7 +4,7 @@
 - 💀 mostly working on **private repositories**
 - 👾 always an **student** working his way around things
 -    Playing CTF's at spare time
--    Leaning Malware analysis and RE
+-    Learning Malware analysis and RE
 <br> 
 <h2> / current skills / </h2>
 
